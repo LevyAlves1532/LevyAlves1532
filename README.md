@@ -1,6 +1,10 @@
 ### Hello Guys 👋
 
-Meu nome é Lêvy, sou um desenvolvedor frontend, gosto muito do javascript, tenho um conhecimento amplo em HTML5, CSS3, e JavaScript, sou especializado em desenvolvimento de aplicações web utilizando o ReactJS!
+Prazer meu nome é Lêvy, tenho 19 anos e trabalho com desenvolvimento web e mobile, tenho conhecimentos para a web em HTML, CSS e JavaScript, além de conhecimentos no ReactJs usado na criação de interfaces de usuários, sendo bem flexível e altamente escalável.
+
+Trabalho também com o desenvolvimento de aplicações nativas mobile com o React Native, tanto android quanto iOS.
+
+Atualmente tenho estudado o Laravel para começar a desenvolver melhor o backend e começar a criar aplicações mais robustas a partir desse framework incrível do PHP, devo citar que também tenho conhecimentos na linguagem PHP e em banco de dados mysql.
 
 ## Meus Conhecimentos
 
@@ -13,7 +17,9 @@ Meu nome é Lêvy, sou um desenvolvedor frontend, gosto muito do javascript, ten
 
 ## Pretenções de 2024
 
-Quero ampliar mais ainda meus conhecimentos no desenvolvimento do frontend e partir também para o backend além de melhorar minhas habilidade com o React Native, quero começar desenvolver APIs utilizando NodeJS e suas tecnologias como express, fastify MongoDB, e para o frontend tenho começado a estudar o TailwindCSS, e pretendo começar a estudar NextJS e VueJS. Além dessas habilidades quero adiquirir competências na área de gestão de projetos e melhorar minha comunicação. E para fechar com chave de ouro pretendo aprender e desenvolver a fluência em um novo idioma o inglês!
+- Melhorar no React Native
+- Aprender de desenvolver no Laravel
+- Tecnologias para aprender ainda esse ano VueJs, NodeJs e NextJs
 
 ## Top 3 Hobbys
 
