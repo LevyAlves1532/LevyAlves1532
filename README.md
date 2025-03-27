@@ -1,28 +1,25 @@
-### Hello Guys 👋
+# Hello World!
 
-Prazer meu nome é Lêvy, tenho 19 anos e trabalho com desenvolvimento web e mobile, tenho conhecimentos para a web em HTML, CSS e JavaScript, além de conhecimentos no ReactJs usado na criação de interfaces de usuários, sendo bem flexível e altamente escalável.
+## Sobre Mim
 
-Trabalho também com o desenvolvimento de aplicações nativas mobile com o React Native, tanto android quanto iOS.
+Olá! Meu nome é Lêvy e sou um desenvolvedor Full Stack, especializado no desenvolvimento de sistemas web, sites institucionais, APIs e One Pages. Tenho me dedicado ao estudo da linguagem de programação PHP e ao framework Laravel, que me chamou a atenção por sua robustez, organização e facilidade no desenvolvimento.
 
-Atualmente tenho estudado o Laravel para começar a desenvolver melhor o backend e começar a criar aplicações mais robustas a partir desse framework incrível do PHP, devo citar que também tenho conhecimentos na linguagem PHP e em banco de dados mysql.
+Minha trajetória profissional começou quando fui convidado pelo meu tio, que atuava na área e estava iniciando uma empresa terceirizada, para trabalhar ao seu lado. Nessa época, fui responsável pelo desenvolvimento web, criando páginas institucionais e promocionais para empresas como Samsung, Renner, entre outras. Utilizei React para criar interfaces interativas e fiz integrações com APIs, o que me trouxe um grande aprendizado na área.
 
-## Meus Conhecimentos
+Atualmente, tenho focado meus esforços no desenvolvimento de sistemas web utilizando Laravel, Filament, PHP e MySQL. Um dos meus projetos pessoais mais importantes foi o desenvolvimento do meu próprio portfólio, no qual utilizei o Filament, uma biblioteca que tem ganhado espaço no mercado por permitir a criação de dashboards administrativos de forma rápida e eficiente. Isso me trouxe mais produtividade, reduzindo o tempo de desenvolvimento de painéis administrativos e sistemas de gestão.
 
-- Tenho conhecimento em HTML5, CSS3 e JavaScript
-- Já trabalhei e usei jQuery e Bootstrap
-- Tenho um conhecimento prévio em PHP e MySQL
-- Sou especializado em construir aplicações usando o ReactJS
-- Tenho bons conhecimentos em Redux, Styled Components e React Router DOM
-- Começei a estudar React Native para desenvolvimento de aplicações Mobile
+Além do Filament, também explorei outras ferramentas, como AdminLTE, que tenho utilizado no desenvolvimento de uma aplicação de anotações. Esse projeto tem sido uma excelente oportunidade para aprofundar meu conhecimento em Laravel, PHP e MySQL, além de testar diferentes abordagens para gestão de dados e dashboards.
 
-## Pretenções de 2024
+Embora minha experiência profissional ainda esteja em crescimento, já desenvolvi uma aplicação em parceria com outra empresa, focada na gestão de pedidos, utilizando Laravel, Filament e MySQL. Meu objetivo é continuar aprimorando minhas habilidades e entregar soluções inovadoras e eficientes no desenvolvimento de sistemas web.
 
-- Melhorar no React Native
-- Aprender de desenvolver no Laravel
-- Tecnologias para aprender ainda esse ano VueJs, NodeJs e NextJs
+## Meus Contatos
 
-## Top 3 Hobbys
+**Whatsapp:** [47 9 9196-6719](https://wa.me/5547991966719)
 
-- ⚙️ Desenvolver diferentes tipos de projetos
-- 🎮 Gosto bastante de jogar
-- 🎵 Escultar música sem dúvida é a melhor coisa do mundo
+**E-mail:** levy.pereiraA1532@gmail.com
+
+## Meus Links
+
+**Portfolio:** https://levyalvesdev.com.br/
+
+**LinkedIn:** [Lêvy Alves Desenvolvedor Fullstack](https://www.linkedin.com/in/desenvolvedor-fullstack-laravel/)
